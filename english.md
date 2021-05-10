@@ -1,7 +1,8 @@
-<h1>Easy Builder Tutorial em português</h1>
+
+<h1>Easy Builder tutorial in English</h1>
 <img src="https://user-images.githubusercontent.com/81401104/114604033-d7747000-9c6e-11eb-8150-05be1f550f81.png">
 
-## Primeiros passos no Easy Builder 🦶
+## First steps in Easy Builder 🦶
 <p>Em primeiro plano precisamos criar um login no <b>"Easy Builder"(nossa plataforma de criação).<p>
 - Acessando o link https://builder.easy.rocks/
 <br>
@@ -22,6 +23,7 @@ Pronto agora você ja pode logar no <b>"Easy Builder"</b> sem problemas clicando
                                                 Feito o cadastro Parabens!!🥇🎉
 
 ## É hora de por a mão na massa 🖐️
+![Uploading image.png…]()
 
 Agora iremos aprender a fazer um projeto, menu e formulário básico, para que você já possa experimentar as funcionalidades do Easy Builder.<br>
 <br>
