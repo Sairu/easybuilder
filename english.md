@@ -6,16 +6,16 @@
 - [It's time to get hands-on 🖐️](#id-hands)
 - [Components 🧱](#id-component)
     - [Textfield 📓](#id-textfield)
-    - [TextArea 📄](#id-TextArea)
+    - [TextArea 📄](#id-textarea)
     - [Editor 🎬](#id-Editor)
     - [Hidden 🙈](#id-Hidden)
     - [Integer 🔢](#id-Integer)
     - [Decimal 💲](#id-Decimal)
     - [Date 📆](#id-Date)
-    - [DateTime 📆⏲️](#DateTime)
+    - [DateTime 📆⏲️](#id-DateTime)
     - [Time ⌛](#id-Time)
     - [CheckBox ✅](#id-CheckBox)
-    - [ChecklistDB 📁](#ChecklistDB)
+    - [ChecklistDB 📁](#id-ChecklistDB)
     - [Radio 🔘](#id-Radio)
     - [DropdownDB 📥](#id-DropdownDB)
     - [AutoComplete 🗄️🧲](#id-AutoComplete)
@@ -27,12 +27,12 @@
     - [MultiTag 🏷️](#id-MultiTag)
     - [Additional Data ➡️📃](#id-Additional)
     - [Button ⏸️](#id-Button)
-    - [HTML Field 🦰](#id-HTML)
+    - [HTML Field 🦰](#id-HTMLFIELD)
     - [Quiz 🧩](#id-Quiz)
     - [Email 📧](#id-Email)
     - [Password *️⃣](#id-Password)
     - [Horizontal Line 📏🪓](#id-Horizontal)
-- Form 📃
+- [Form 📃](#id-Tab)
     - [Repeater 🔁](#id-Repeater)
     - [Video call Coming Soon](id-Video)
     - [Tab (Form)](#id-Tab)
@@ -68,37 +68,47 @@
 
 ## First steps in Easy Builder 🦶
 <p>At first we need to create a login to <b>"Easy Builder"(our creation platform).<p>
+    
 - Accessing the link https://builder.easy.rocks/
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/81401104/114607455-f248e380-9c72-11eb-9f83-63854f376b2c.png"><br>
- In this image we see a login screen, this is where you will sign up, there are several ways to sign up like Google, Microsoft Teams,Facebook or with your email, the recommended is to use Easy's email (....@easyteam.rocks) which you received by clicking <i>"Sign UP".<br>
+    
+<img src="https://user-images.githubusercontent.com/81401104/114607455-f248e380-9c72-11eb-9f83-63854f376b2c.png">
+ 
+ In this image we see a login screen, this is where you will sign up, there are several ways to sign up like Google, Microsoft Teams,Facebook or with your email, the recommended is to use Easy's email (....@easyteam.rocks) which you received by clicking <i>"Sign UP".
+    
   
 ### Now we need to confirm your email 📧⚠️
 A confirmation link will be sent to your registered email, so go to it, and open the Easy Builder email that will be found in your Inbox or Junk Mail.
-<br>
+
 <img src="https://user-images.githubusercontent.com/81401104/114757978-d9a00280-9d32-11eb-9a5b-e0e30040c51c.png">
-<br>
-Finally click _Link Here_ to confirm the email.⤴️<br>
-<br>
-There now you can already log in to <b>"Easy Builder"</b> without problems by clicking _Sign In_.⤵️<br>
-<img src="https://user-images.githubusercontent.com/81401104/114770895-58506c00-9d42-11eb-91b8-d35e97afe7cf.png">
+
+Finally click _Link Here_ to confirm the email.⤴️
+    
+There now you can already log in to <b>"Easy Builder"</b> without problems by clicking _Sign In_.⤵️
+    
+![Screenshot_2](https://user-images.githubusercontent.com/81401104/119750852-7f857780-be70-11eb-8c77-54ea746fedb1.png)
+
+    
+
 
                                                 Done registering Congratulations!!🥇🎉
 <div id='id-hands'/>
 
 ## It's time to get hands-on 🖐️
 
-Now we will learn how to make a basic project, menu and form, so you can already experience the features of Easy Builder.<br>
-<br>
+Now we will learn how to make a basic project, menu and form, so you can already experience the features of Easy Builder.
+    
 After logging into Builder you will be faced with the following content:
 
 <img src="https://user-images.githubusercontent.com/81401104/114769820-107d1500-9d41-11eb-9ae1-29954922a707.png">
 In the "Main" tab and right under "Project title" type in the title of your project (can be "ProjectTest") 
+    
+![ProjectTest13](https://user-images.githubusercontent.com/81401104/120087176-30cc1d80-c0bc-11eb-99a3-9f1dba3ae763.gif)
+   
 
 and click on the _Save & Close_ button
 
-<img src="https://user-images.githubusercontent.com/81401104/114924580-872f1680-9e04-11eb-921e-9c819dd64965.gif">
+![Save$closeg](https://user-images.githubusercontent.com/81401104/120087205-5b1ddb00-c0bc-11eb-93fd-7c4d2d961a28.gif)
+
 
 (It will take a while here as the database for your project is being created)
 
@@ -107,59 +117,83 @@ Now you will be on your home page with the three main tabs, in this case automat
 Then, you will be back at the home screen with the two main tabs "Form" and "Report" (which means "Form" and "Report" respectively), now click on the "Form" tab:
 ![image](https://user-images.githubusercontent.com/81401104/116601837-502b2b80-a901-11eb-8e29-009d8ff21b96.png)
 And now click the _New_ button, it will automatically open a new tab in your browser.
-<img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png"><br>
+<img src="https://user-images.githubusercontent.com/81401104/114773410-694eac80-9d45-11eb-9582-bb667046a328.png">
+    
 On that new page, in the "Form Title" field write the title of your form (can be "FormTest").
-<img src="https://user-images.githubusercontent.com/81401104/114773828-e843e500-9d45-11eb-9f24-6412e65cd9dc.png">
+![image](https://user-images.githubusercontent.com/81401104/120087290-f57e1e80-c0bc-11eb-96d1-919007483897.png)
+    
 Click the _"Save"_ button that is at the foot of the page.
+    
 <img src="https://user-images.githubusercontent.com/81401104/114774084-31943480-9d46-11eb-992d-d3c930421db8.png">
 
-Select the "Textfield" component (from the side tab Tools - Gallery Fields) and drag it to the gray field where it says "Drop new field here!"<br>
+Select the "Textfield" component (from the side tab Tools - Gallery Fields) and drag it to the gray field where it says "Drop new field here!"
 
 Now click on the component you dragged ("Textfield"), and soon a side tab will open on the right called "Properties of Field".⤵️
-<img src="https://user-images.githubusercontent.com/81401104/114777398-0875a300-9d4a-11eb-90be-640d428916b5.gif"><br>
+    
+![Animação](https://user-images.githubusercontent.com/81401104/120087612-c5844a80-c0bf-11eb-98df-d4e9f601fc26.gif)
+    
+
 
 There at the top of the "Properties of Field", under "General", In the "Name" field write ''Name'' and in the "Label" field also write "Name".
 Now click the _"Save"_ button and then click the _"Run"_ button, it will open the following page:
-<img src="https://user-images.githubusercontent.com/81401104/114778084-c8fb8680-9d4a-11eb-93e7-cdde13db4cca.png">
-Here the preview of the saved records will be available. ⤴️<br>
+    
+![textemaild2](https://user-images.githubusercontent.com/81401104/121060294-d7897b80-c798-11eb-8639-350840b5b68f.gif)
+
+    
+Here the preview of the saved records will be available. ⤴️
+
 > Click on the _"New"_ button, you will be directed to the following screen:
-<img src="https://user-images.githubusercontent.com/81401104/114778942-dc5b2180-9d4b-11eb-9fd7-5e9e03c4ed8a.gif">
-Add the name "Lopes", and click the _"Save & Close"_ button !!! <img src="https://user-images.githubusercontent.com/81401104/114939285-9a4ae200-9e16-11eb-9884-5e9c3dbce5e5.gif">
+
+![formtestnew](https://user-images.githubusercontent.com/81401104/121061502-4a472680-c79a-11eb-9e3c-0eb0807ac8ad.gif)
+
+Add the name "Lopes", and click the _"Save & Close"_ button !!!
+    
+![formtestnewnamelopes2](https://user-images.githubusercontent.com/81401104/121063430-aad76300-c79c-11eb-9304-515445ae9ca9.gif)
+
+    
 <h3>⚠️Be careful not to confuse _"Save"_ instead of _"Save & Close"</h3>
-<img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png"><br>
+<img src="https://user-images.githubusercontent.com/81401104/114779385-702ced80-9d4c-11eb-8838-8133ec0a3aea.png">
 
 Repeat the process by putting different name.
 
-You can download the list of records in excel list format by clicking on the _"Export Excel"_ button and then the link to download the excel list will be sent to your email.<br>
+You can download the list of records in excel list format by clicking on the _"Export Excel"_ button and then the link to download the excel list will be sent to your email.
+    
 A short gif to help you:
 
-<img src="https://user-images.githubusercontent.com/81401104/114777405-09a6d000-9d4a-11eb-8a04-d538d5b34a76.gif"><br>
-
+<img src="https://user-images.githubusercontent.com/81401104/114777405-09a6d000-9d4a-11eb-8a04-d538d5b34a76.gif">
+    
 ### How to Run the Application 💻
+    
 When you get to the form screen, fill in the "Form Title"(the title of the form) and insert the "Textfield" and "Email" components:
-<img src="https://user-images.githubusercontent.com/81401104/114933398-ff023e80-9e0e-11eb-86ad-8811ba803155.gif">
+    
+![textemail](https://user-images.githubusercontent.com/81401104/120090145-8c0b0980-c0d6-11eb-9d19-a338ebf9ae7d.gif)
 
-We can now run the application, to do this, click the _"SAVE"_ button at the bottom of the page and then click the _"Run"_ button <img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif"><br>You will go to the following screen
-<img src="https://user-images.githubusercontent.com/81401104/114936950-805bd000-9e13-11eb-8877-16341176b8e5.png">
+
+We can now run the application, to do this, click the _"SAVE"_ button at the bottom of the page and then click the _"Run"_ button <img src="https://user-images.githubusercontent.com/81401104/114936682-20fdc000-9e13-11eb-93dc-1dcc895356fa.gif">
+    
+You will go to the following screen
+
+![image](https://user-images.githubusercontent.com/81401104/121071158-fb9f8980-c7a5-11eb-8f1f-3017724cdcb9.png)
 
 This is the screen of the records after they have been inserted and saved.⤴️
 
 To insert new records, click the _"New"_ button at the top of this screen⬇️
-
-<img src="https://user-images.githubusercontent.com/81401104/114939985-8b186400-9e17-11eb-9738-a6de0dd97dc4.png">
+    
+![image](https://user-images.githubusercontent.com/81401104/121071360-373a5380-c7a6-11eb-8657-e45baf0201d6.png)
 
 Then the following screen will open:
 
-<img src="https://user-images.githubusercontent.com/81401104/115062670-fd914e80-9ec0-11eb-9c75-7956b6bcefce.png">
+![image](https://user-images.githubusercontent.com/81401104/121073357-ca748880-c7a8-11eb-9d34-7f61701326fe.png)
 
 This is the register screen, where you will enter the new information within the system.
 
 After filling in the fields, click the _"Save & Close" button.
 
-<img src="https://user-images.githubusercontent.com/81401104/115065052-0c2d3500-9ec4-11eb-8b6b-25e0628429fb.gif">
+![formtestnewnamelopesemail](https://user-images.githubusercontent.com/81401104/121073189-96996300-c7a8-11eb-8af4-374d46eaa43a.gif)
 
 And you will be back at the records screen, with the form saved and available for viewing.
-*If you want to edit the saved form, click the <img src="https://user-images.githubusercontent.com/81401104/115065229-41d21e00-9ec4-11eb-85f7-9674e8483492.png">
+    
+*If you want to edit the saved form,click the <img src="https://user-images.githubusercontent.com/81401104/115065229-41d21e00-9ec4-11eb-85f7-9674e8483492.png">
 (Under the "Control" column)
 
 ## WARNINGS⚠️
@@ -223,15 +257,15 @@ There are 30 components that we will learn how to use, they are:
  </tr>
 </table>
 
-It is important to realize that in the "Properties of Field" section, there are several sections ("General", "Behavior", "Presentation", "Events", "Intro", etc) can have more or fewer sections, and with more or fewer items, depending on the component.<br>
+It is important to realize that in the "Properties of Field" section, there are several sections ("General", "Behavior", "Presentation", "Events", "Intro", etc) can have more or fewer sections, and with more or fewer items, depending on the component.
 
 The "Properties of Field" example in the image below is from the "Textfield" component.
 
 <img src="https://user-images.githubusercontent.com/81401104/115268685-e5b00980-a110-11eb-9b9e-1215c566626a.png">
 
-It is important to know this so that it makes the process of locating the sections, items, etc.<br>
+It is important to know this so that it makes the process of locating the sections, items, etc.
 
-Another recurring situation is referencing within the tutorial from one component to another tutorial within this document.<br>
+Another recurring situation is referencing within the tutorial from one component to another tutorial within this document.
 
 It is also important that you have already performed the steps in the tutorials "How to Create Your First Project, Menu and Form" and "How to Run the Application".
 
@@ -243,13 +277,15 @@ It is also important that you have already performed the steps in the tutorials 
 
 The "Textfield" component is for writing text, mainly names, but it can also be used to record phone numbers using the mask on the field properties, we will see how to do that soon.
 
-Select the "Textfield" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab called "Properties of Field" will appear on the right side of the screen (If it doesn't appear, just click on the component you just dropped).
+Select the "Textfield" component, then drag and drop it where it says "Drop new field here! When you drop it, a tab called "Properties of Field" will appear on the right side of the screen
+
+(If it doesn't appear, just click on the component you just dropped).
 
 🔗Video:https://www.youtube.com/watch?v=ySN4K9JrlwQ&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=11
 
 ### Textfield 📓 > GENERAL 🎖️
 
-<img src="https://user-images.githubusercontent.com/81401104/115269185-6f5fd700-a111-11eb-992d-2e9493159141.png"><br>
+<img src="https://user-images.githubusercontent.com/81401104/115269185-6f5fd700-a111-11eb-992d-2e9493159141.png">
 
 In this "Properties of Field" tab, under "General", you have the "Name" field, this refers to the field identification for the coding, for possible programming later. Generally you will repeat what is written in "Label", which is the field identification for the user.
 
@@ -265,20 +301,22 @@ The "Placeholder" field serves as a guide for what to fill in, it is interesting
 
 In "Properties of Field", under "Values", there are 4 fields and a checkbox, which are respectively "Mask", "Default", "Minimum Length", "Maximum Length" and "Enable Barcode Scanner".
 
-Under "Mask" you can determine the specific fill pattern, i.e. specific number and type of characters. For example, if you want the field to accept phone numbers in a specific format, you can fill this field with (99)99999-9999, do this now for testing.
+Under "Mask" you can determine the specific fill pattern, i.e. specific number and type of characters. For example, 
+if you want the field to accept phone numbers in a specific format, you can fill this field with (99)99999-9999, do this now for testing.
 
 To make it harmonious, go to "Name" and "Label" and write "Phone Number". Leave the "Placeholder" field blank.
 
 Run the application.
-<img src="https://user-images.githubusercontent.com/81401104/115287508-bd330a00-a126-11eb-9835-673d0eb26469.png">
+
+![formtestnumber](https://user-images.githubusercontent.com/81401104/121075901-1ffe6480-c7ac-11eb-9c4c-efed9654570d.gif)
 
 
-Fill in the "Phone number" field with any number, it can be (45) 98765-4321 
+Fill in the "Phone number" field with any number, it can be (99)99999-9999
 and then click the button <img src="https://user-images.githubusercontent.com/81401104/115287040-2e25f200-a126-11eb-85d5-c49772347aa9.png">
 
 
 You are now able to view your records:
-<img src="https://user-images.githubusercontent.com/81401104/115287588-d63bbb00-a126-11eb-9a81-29435627ddd9.png"><br>
+![1](https://user-images.githubusercontent.com/81401104/121239691-f1e25880-c86f-11eb-8288-028d7c89dd6a.png)
 
  and the process is the same as before for adding new records.
 
@@ -287,6 +325,7 @@ You are now able to view your records:
 Run the application.
 
 <img src="https://user-images.githubusercontent.com/81401104/115288674-1b142180-a128-11eb-82f0-3a930b0e05aa.png">
+
 Note that it is already filled in with (45)99887-6655, but you can change it.
 
 "Minimum Length" refers to the minimum number of characters to be used when filling the field. For example, select and drag one more "Textfield" component into the form and then edit just this "Minimum Length" setting to a value of 5.
@@ -324,36 +363,43 @@ Regarding the rules for visibility, mandatory and disabled, it is important to n
 
 Let's test this in practice. Select and drag the "Integer" component into the form.
 
-<img src="https://user-images.githubusercontent.com/81401104/115289821-64b13c00-a129-11eb-809d-d6fea45d85de.png">
+![3](https://user-images.githubusercontent.com/81401104/121243233-de38f100-c873-11eb-8f6c-abe83fe16841.gif)
 
  in the "Properties of Field", under "General", under "Name" and "Label" fill the field with "Age". 
-<img src="https://user-images.githubusercontent.com/81401104/115289993-7a266600-a129-11eb-95ed-0cc10fe0de8b.png">
 
+![4 1](https://user-images.githubusercontent.com/81401104/121244680-8b603900-c875-11eb-8355-85aca08299c5.gif)
 
 Go back to edit the properties of the "Phone Number" under "Behavior" ,click on the ![image](https://user-images.githubusercontent.com/81401104/116604024-00019880-a904-11eb-9089-83baafbf8fa3.png)
-of the "Visibility Rules",
+
+of the "Visibility Rules" ⤵️
+
+![5 1](https://user-images.githubusercontent.com/81401104/121245012-e8f48580-c875-11eb-8ec4-a5db31048de3.gif)
 
 will open the following window:<img src="https://user-images.githubusercontent.com/81401104/115290616-223c2f00-a12a-11eb-902f-4ff56b703292.png">
-in "Name" write "Age Rule", in "Type" select "Integer", in "Operation" select "Greater or Equal", in "Value" write "18".
 
+in "Name" write "Age Rule", in "Type" select "Integer", in "Operation" select "Greater or Equal", in "Value" write "18".⤵️
+
+![6](https://user-images.githubusercontent.com/81401104/121246873-fca0eb80-c877-11eb-8738-726df64130c7.gif)
 
 Now click on the button ![image](https://user-images.githubusercontent.com/81401104/115290676-354eff00-a12a-11eb-85ed-b3102d4347b0.png).
 
 Now deselect the "Visible" checkbox.
+
 ![image](https://user-images.githubusercontent.com/81401104/115290773-50217380-a12a-11eb-805e-a2f0cde5d796.png)
 
 Then click on the "Visibility Rules" drop-down list (from the "Age" field) and select "Age Rule":
-![image](https://user-images.githubusercontent.com/81401104/115290819-5d3e6280-a12a-11eb-8a12-5ce14ccc26c9.png)
+
+![image](https://user-images.githubusercontent.com/81401104/121247013-20fcc800-c878-11eb-9b72-00ab4a7722cf.png)
 
  and then another list will appear below, click and select "Age".
 (image on the next page)
-![image](https://user-images.githubusercontent.com/81401104/115290864-6deed880-a12a-11eb-9c10-250f6e028aa2.png)
+![image](https://user-images.githubusercontent.com/81401104/121248260-a03ecb80-c879-11eb-8dae-0318adc16220.png)
 
 Now run the application.
 
 Automatically a new page will open in your browser (records screen), click on the button ![image](https://user-images.githubusercontent.com/81401104/115290892-7810d700-a12a-11eb-8693-bb6fb8a2f6a0.png)
 
-![image](https://user-images.githubusercontent.com/81401104/115290923-8101a880-a12a-11eb-83b8-c57244d444a9.png)
+![7](https://user-images.githubusercontent.com/81401104/121250169-c9605b80-c87b-11eb-8f29-9c06afae1cb4.gif)
 
 Fill the field "Age" with "18" and notice that the field "Telephone Number" appears to be filled in.
 
@@ -380,13 +426,15 @@ Automatically a new page will open in your browser, and you will see registratio
 
 In this section you can edit how much space the field will occupy on the screens of desktops, tablets, horizontal mobiles and vertical mobiles respectively. The space occupied can vary from 8% to 100%.
 
-Click on the "Phone Number" field created earlier.
-![image](https://user-images.githubusercontent.com/81401104/115293785-1f433d80-a12e-11eb-8835-39fa7699f32a.png)
+Click on the "Number" field created earlier.⬇️
+
+![image](https://user-images.githubusercontent.com/81401104/121411393-f410e980-c939-11eb-8e55-983583d46e24.png)
 
 
 If you are using desktop, click on the first drop-down list and then choose the col-lg-12:100% option and observe how it looks in the form.
 
-![image](https://user-images.githubusercontent.com/81401104/115293817-2702e200-a12e-11eb-871a-709b8a766f4b.png)
+![9](https://user-images.githubusercontent.com/81401104/121412846-7f3eaf00-c93b-11eb-8f7f-f9ed34fa502a.gif)
+
 
 Run the application.
 
@@ -412,25 +460,28 @@ Let's test this now, select and drop two "Textfield" components into the form.
 
 In the first "Textfield", under "Position" select "Top", under "Order" type "1", under "Message" write "This is the first" (image on the next page).
 
-![image](https://user-images.githubusercontent.com/81401104/115294205-aee8ec00-a12e-11eb-928f-c37400f1bd77.png)
+![10](https://user-images.githubusercontent.com/81401104/121413506-202d6a00-c93c-11eb-94b7-dd5ff872cc6c.png)
 
 In the second "Textfield", in "Position" select "Right", in "Order" type "2", in "Message" write "This is the second one" .
-![image](https://user-images.githubusercontent.com/81401104/115294376-ea83b600-a12e-11eb-832d-d96e58ea37c2.png)
+
+![11](https://user-images.githubusercontent.com/81401104/121413692-54a12600-c93c-11eb-8624-ae422147da0c.png)
 
 Now run the application, and the following page will open:
-![image](https://user-images.githubusercontent.com/81401104/115294454-ff604980-a12e-11eb-9466-6a769bb2cde3.png)
+
+![image](https://user-images.githubusercontent.com/81401104/121414734-5e775900-c93d-11eb-9796-59e6901722a0.png)
 
 click on button ![image](https://user-images.githubusercontent.com/81401104/115294470-05562a80-a12f-11eb-9dd2-e6adb2664492.png).
 
 Then the intro effect will appear on the following page:
-![image](https://user-images.githubusercontent.com/81401104/115294508-1010bf80-a12f-11eb-8f4e-54cf9a4d30a9.png)
-![image](https://user-images.githubusercontent.com/81401104/115908434-8c154b00-a440-11eb-8863-f01b4a55ac84.png)
+![12](https://user-images.githubusercontent.com/81401104/121414658-430c4e00-c93d-11eb-8a95-04c267751222.png)
+
+![13](https://user-images.githubusercontent.com/81401104/121414673-49022f00-c93d-11eb-84d0-5bf09bb441f1.png)
 
 This visualization of the highlighted field with the message beside (or below, etc.), is the effect of the settings in the "Intro" section.
 
 You can keep adding new fields and switching the order and messages, but remember that it only works the first time, so to test it again you need to create a new form.
 
-<div id='id-TextAread'/>
+<div id='id-textarea'/>
 
 ## TextArea 📄
 ![image](https://user-images.githubusercontent.com/81401104/115908738-edd5b500-a440-11eb-95f4-8c0d9bba0801.png)
@@ -447,11 +498,12 @@ Run the application
 
 And on the register screen, in the "Textarea" field you can add values of type letters and numbers, with 2 lines or more (you can add more lines in the "Presentation" section, under "Rows")
 
-![image](https://user-images.githubusercontent.com/81401104/115908849-12ca2800-a441-11eb-95d5-9ce556444aeb.png)
+![formTesttextarea1](https://user-images.githubusercontent.com/81401104/121755779-6aeee380-caee-11eb-9317-9ff02b5b49e9.png)
 
 After saving:
 
-![image](https://user-images.githubusercontent.com/81401104/115908877-1cec2680-a441-11eb-83b1-07f7ae1cf13a.png)
+![FormTesthellowworldbanc1](https://user-images.githubusercontent.com/81401104/121755816-8b1ea280-caee-11eb-844e-b11543000447.png)
+
 
 🔗Video: https://www.youtube.com/watch?v=5M0pQUNpSHc&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=12
 
@@ -615,9 +667,9 @@ Now click on the button ![image](https://user-images.githubusercontent.com/81401
 
 In this "Custom Scripts" field copy and paste the following:
 
-function sum() {
-    this.entity.Total = this.entity.Number1 + this.entity.Number2;
-}
+                                        function sum() {
+                        this.entity.Total = this.entity.Number1 + this.entity.Number2;
+                        }
 
 Now go back to the "Form Design" on the "Dev Properties" side, at the top of the page. 
 (Image below)
@@ -645,7 +697,7 @@ The following page will open:
 In "Number1" enter the value "2.55", and in "Number2" enter the value "1.32" and automatically it will show the value "3.87" in the "Total" field. You can test with other values if you wish.
 
 After adding the values, click on the ![image](https://user-images.githubusercontent.com/81401104/115919054-b3731480-a44e-11eb-9cd3-02fef99ed26b.png) button.
-.
+
 <div id='id-Date'/>
 
 ## Date 📆 
@@ -746,18 +798,19 @@ Select the "Checkbox" component, then drag and drop it where it says "Drop new f
 ![image](https://user-images.githubusercontent.com/81401104/115920271-56785e00-a450-11eb-9d7a-63d4658aa8aa.png)
 
 Type "Required" in the "Name" and "Label" fields that are in the "General" section of the "Properties of Field" checkbox.
- ![image](https://user-images.githubusercontent.com/81401104/115920308-6728d400-a450-11eb-9652-555a054366a3.png)
- 
+
+ ![CheckBoxTutorial 1](https://user-images.githubusercontent.com/81401104/121757221-3c273c00-caf3-11eb-90c4-594cb9b61ff3.png)
+
  Now run the application.
 In the registration screen you can see the component:
 
-![image](https://user-images.githubusercontent.com/81401104/115920336-6f810f00-a450-11eb-9fcc-4d291d9eae89.png)
+![CheckBoxTutorial 2](https://user-images.githubusercontent.com/81401104/121757271-62e57280-caf3-11eb-9dc2-04c5a4e06c2f.png)
 
-![image](https://user-images.githubusercontent.com/81401104/115920355-760f8680-a450-11eb-994d-e7b640b590f3.png)
+![CheckBoxTutorial 3 true](https://user-images.githubusercontent.com/81401104/121757301-801a4100-caf3-11eb-8329-519ebb458ead.png)
 
 After saving them, they will be arranged as follows on the registration screen:
 
-![image](https://user-images.githubusercontent.com/81401104/115920463-9ccdbd00-a450-11eb-9245-f4f2b18463b1.png)
+![CheckBoxTutorial 4 bank](https://user-images.githubusercontent.com/81401104/121757336-9de7a600-caf3-11eb-833b-56285962e150.png)
 
 ### CheckBox ✅ > VALUES 1️⃣
 ![image](https://user-images.githubusercontent.com/81401104/115920485-a48d6180-a450-11eb-8410-2395926bef07.png)
@@ -823,7 +876,7 @@ Scroll down to the "Values" section of this tutorial to learn how to use this co
 
 Here you will add the values, for example, create lists with the options to select, remembering that only one option can be selected with this component.
 
-Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/115922523-634a8100-a453-11eb-95a4-2eb6c60f6164.png)
+Now click on the button ![image](https://user-images.githubusercontent.com/81401104/115922523-634a8100-a453-11eb-95a4-2eb6c60f6164.png)
 will automatically open the modal window "Enumerations" (image on the next page), in "Name" write "Gender", in "Type" keep the option "String".
 
 Now click on the button ![image](https://user-images.githubusercontent.com/81401104/115923580-d30d3b80-a454-11eb-8fd6-3a7feb9d307d.png)
@@ -835,14 +888,15 @@ Two important things to know about the "Enumerations" window:
 Under "Type" you have two options you can select: "String" or "Integer". "String" refers to words, "Integer" refers to numbers.
 "Max Length" refers to the maximum amount of characters each option will have.
 
-![image](https://user-images.githubusercontent.com/81401104/115923727-09e35180-a455-11eb-9bd3-4ce96ea55475.png)
+![Enumeration 1](https://user-images.githubusercontent.com/81401104/121758247-03896180-caf7-11eb-8432-f7b59163a987.png)
 
 Still on the "Values" section, there is the "Default" item, clicking on it will show the "Male" and "Female" options, this means that if you select one of these two now, when filling out the form one of them will already be selected, but you can still change it if you want. 
 
 Run the application.
 
 The component will look like this on the registration screen:
-![image](https://user-images.githubusercontent.com/81401104/115923754-19629a80-a455-11eb-9717-635682b4ac28.png)
+
+![RadioTutorial MaFe 1](https://user-images.githubusercontent.com/81401104/121758308-4a775700-caf7-11eb-8d0c-ce9ece02e82e.png)
 
 <div id='id-Dropdown'/>
 
@@ -863,7 +917,8 @@ In "Name" write vehicle, then click on the ![image](https://user-images.githubus
 ![image](https://user-images.githubusercontent.com/81401104/116136157-54104100-a6a8-11eb-81a1-be542bbc8014.png)
 
 Edit the "Option A" to "Car". Add two more options and change them to "Motorcycle" and "Truck". 
-![image](https://user-images.githubusercontent.com/81401104/116136211-64c0b700-a6a8-11eb-887f-189f0f8d0ab1.png)
+
+![enumeration 2](https://user-images.githubusercontent.com/81401104/121945021-b04b2500-cd29-11eb-9066-221d7c13495b.png)
 
 Now click on the button ![image](https://user-images.githubusercontent.com/81401104/116136235-6db18880-a6a8-11eb-883f-89dd8444852f.png)
  button, and after saving, you will automatically return to the form design screen. 
@@ -871,7 +926,9 @@ Now click on the button ![image](https://user-images.githubusercontent.com/81401
 Run the application.
 
 On the registration screen, the "Dropdown" will work as follows:
-![image](https://user-images.githubusercontent.com/81401104/116136274-7904b400-a6a8-11eb-84c7-db352e7116f0.png)
+
+![Dropdowntutorial](https://user-images.githubusercontent.com/81401104/121946196-0f5d6980-cd2b-11eb-85d1-f051ab3e4209.png)
+
 
 🔗Video: https://www.youtube.com/watch?v=QsfoAgq2EIs&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=21
 
@@ -901,26 +958,30 @@ In this "Source" section we will bring in the set of values entered into another
 So let's start by creating one more form (as shown in the tutorial "How to Create Your First Project, Menu and Form").
 
 And on this new form we will add the "Textfield" component into it.
-![image](https://user-images.githubusercontent.com/81401104/116136725-0ea04380-a6a9-11eb-9545-9a94612e11af.png)
 
-![image](https://user-images.githubusercontent.com/81401104/116136725-0ea04380-a6a9-11eb-9545-9a94612e11af.png)
+![form color text](https://user-images.githubusercontent.com/81401104/121950606-3b2f1e00-cd30-11eb-8ad6-a123d6cd272f.png)
+
 
 In the "General" section,Name the "Name" and "Label" fields "Color".
-  
-![image](https://user-images.githubusercontent.com/81401104/116136757-1d86f600-a6a9-11eb-9060-f0fbcd9a1897.png)
+
+![GeneralColor1](https://user-images.githubusercontent.com/81401104/122145634-00121500-ce2c-11eb-8245-fed553b3a51d.png)
 
 Now run the application.
-![image](https://user-images.githubusercontent.com/81401104/116137524-0a285a80-a6aa-11eb-88bd-15d2f0ae06ac.png)
+
+![SaveAndRun](https://user-images.githubusercontent.com/81401104/122146655-d823b100-ce2d-11eb-970c-ec287ded561c.gif)
 
 The following page will open:
-![image](https://user-images.githubusercontent.com/81401104/116137641-2af0b000-a6aa-11eb-950b-d51d88b82d86.png)
+
+![formcolor](https://user-images.githubusercontent.com/81401104/121950280-ca880180-cd2f-11eb-8c82-ea4f4ae2430d.png)
 
 In the "Color" field write "Red", then click the button ![image](https://user-images.githubusercontent.com/81401104/116137555-14e2ef80-a6aa-11eb-8ad0-c16e743bb352.png)
 .. 
-![image](https://user-images.githubusercontent.com/81401104/116137594-20ceb180-a6aa-11eb-999e-663fc3472c10.png)
+
+![formcolorall](https://user-images.githubusercontent.com/81401104/122147259-eaeab580-ce2e-11eb-979d-465079f9e0d2.gif)
 
 Repeat the process to add the colors "Green", "Yellow" and "Blue".
-![image](https://user-images.githubusercontent.com/81401104/116137728-48257e80-a6aa-11eb-891a-1451d4d93bee.png)
+
+![FormColorGreenYellow](https://user-images.githubusercontent.com/81401104/122149234-220e9600-ce32-11eb-958c-3fed00deebc6.png)
 
 Now let's go back to the other form with the "DropdownDB" component.
 ![image](https://user-images.githubusercontent.com/81401104/116137753-54a9d700-a6aa-11eb-9023-18de50099b10.png)
@@ -1464,9 +1525,9 @@ Then the following tab will open:
 
 Under "Custom Scripts" copy and paste the following script: 
 
-function alert() {
-   alert('Can be used in alerts, redirect to another page, execute a javascript function')
-}
+                                            function alert() {
+                                   alert('Can be used in alerts, redirect to another page, execute a javascript function')
+                                   }
 
 then click on button ![image](https://user-images.githubusercontent.com/81401104/116298561-f4329c80-a772-11eb-9144-cf14ea87e784.png)
 
@@ -1502,7 +1563,7 @@ For example, copy and paste the following code:
 ![image](https://user-images.githubusercontent.com/81401104/116300074-d5350a00-a774-11eb-80be-e09fd664078b.png)
 
 Soon you will see the following:
-<p>The documents are <strong>mandatory&nbsp;</strong></p>
+                        <p>The documents are <strong>mandatory&nbsp;</strong></p>
 
 Notice that the word "mandatory" is in bold, due to the html code.
 
@@ -1512,6 +1573,8 @@ Run the application...
 And here you can see the message with text formatting inside your form.
 
 🔗Video: https://www.youtube.com/watch?v=izhSKwdUDvg&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=32
+
+<div id='id-HTMLFIELD'/>
 
 ### HTML Field 🦰 > GENERAL 🎖️
 ![image](https://user-images.githubusercontent.com/81401104/116300186-fd246d80-a774-11eb-9bdb-b092cae16ad4.png)
@@ -2226,7 +2289,7 @@ Double click on the items that appear on the right side of the screen: "Funcao" 
 ![image](https://user-images.githubusercontent.com/81401104/117499488-b17e7a80-af51-11eb-88bf-42e58cc815e5.png)
 
 
-Notice that it has been added into the datasource. Agora clique no botão ![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).
+Notice that it has been added into the datasource.now click on button ![image](https://user-images.githubusercontent.com/81401104/117499529-b9d6b580-af51-11eb-8bd0-4d90679a2564.png).
 
 Your datasource is created:
 
@@ -2656,13 +2719,14 @@ By clicking on the ![image](https://user-images.githubusercontent.com/81401104/1
 
 ![image](https://user-images.githubusercontent.com/81401104/117503648-9e6ea900-af57-11eb-8f4c-c4e0e1f0be9b.png): Excluir tables selecionadas.
 
+
 ![image](https://user-images.githubusercontent.com/81401104/117503670-a595b700-af57-11eb-8267-141fb712b572.png) : Clear the data from the selected tables.
+
 
 <div id='id-Editors'/>
 
 #### 🧰 Editors
 ![image](https://user-images.githubusercontent.com/81401104/117503687-adedf200-af57-11eb-9aa4-c6f9d3ec0575.png)
-
 
 Member Users can view and edit your system.
 
